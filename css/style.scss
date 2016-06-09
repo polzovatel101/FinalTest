@@ -418,9 +418,13 @@ $iconPosition: -41px;
         margin: 20px;
     }
 
-    .grid-item {
-        width: auto;
+    .image{
+        width: 100%;
     }
+
+    //.grid-item {
+    //    width: auto;
+    //}
 
     .clear-fix:after {
         content: "";

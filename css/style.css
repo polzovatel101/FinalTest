@@ -361,8 +361,8 @@ form {
   position: relative;
   margin: 20px; }
 
-.grid-item {
-  width: auto; }
+.image {
+  width: 100%; }
 
 .clear-fix:after {
   content: "";
